@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Headers/Private/React/RCTAnimation/RCTValueAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Headers/Private/React/RCTAnimation/RCTAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/aleksejermolaev/Desktop/develop/IntegrationReactNativeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
